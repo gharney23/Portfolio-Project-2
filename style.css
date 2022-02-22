@@ -145,7 +145,7 @@ a {color:yellow;
 
 .header
     {position: absolute;
-        top: 13%;
+        top: 6%;
         left: 10%;
     display: flex;
     flex-direction: row;
